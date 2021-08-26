@@ -1,6 +1,8 @@
-# Golang Container Hello World
+# Golang Hello World (Container Version)
 
 Provides a Go application and Dockerfile to run Go application inside Docker container
+
+## Getting started
 
 ### Build Docker Image
 `docker build -t hello-world .`
